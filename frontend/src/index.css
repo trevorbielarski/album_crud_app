@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'oswald'; 
+  src: local('oswald'), url(./fonts/static/Oswald-Regular.ttf) format('truetype'); 
+}
+
+body {
+  margin: 0;
+  font-family: 'oswald', 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif !important; 
+  letter-spacing: 0.02em; 
+}
+
+.container {
+  min-height: 800px; 
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
