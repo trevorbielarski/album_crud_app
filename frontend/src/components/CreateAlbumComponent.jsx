@@ -1,5 +1,3 @@
-/* SHOULD ALBUMID REFERENCED BELOW INSTEAD BE JUST 'ID'?????????????????? */
-
 import React, { Component } from 'react'
 import AlbumService from '../services/AlbumService'; 
 
